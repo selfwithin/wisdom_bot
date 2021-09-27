@@ -29,3 +29,27 @@ Great care has been put into keeping decentralized projects decentralized. New c
 Fees are burned in Peercoin rather than recycled, keeping the blockchain tight and efficient.
 You will be outlasted by the sunrise and by Peercoin.
 Only three things in life are certain: death, taxes, and the next Peercoin block.
+Outputs start to have a chance to mint at 30 days old and reach maximum mint probability at 90 days.
+Each output to a transaction is a lottery ticket to mint. The timestamp of the formed block chooses the winners.
+The standard client will split outputs in two that mint earlier than 90 days.
+What is the ideal output size to maximize mint rewards? It depends on the PoS difficulty, but around 20-200 PPC is fine.
+Many Peercoin point upgrades are hard forks, allowing the protocol to truly improve and flaunting the strength of our consensus.
+Democratically self-governed, Peercoin does not fear those who have not put in the time.
+Peercoin is the Eye of Agamotto.
+Development on Peercoin has been two-fold: maintaining compatibility with Bitcoin code, and building our own unique mechanisms.
+Our full nodes are streamlined enough to fit on a Raspberry Pi, a small computer, or an Internet of Things device.
+Settings>Options>Wallet>’Enable coin control features’.  Thank me later.
+The ‘Export’ button in the ‘Transactions’ tab outputs a .csv of your activities. Peercoin Analytics aims help interpret it.
+The testnet is a mirror network with faster protocol parameters that we release updates on first to troubleshoot them.
+While testnet coins are not worth money, being a reliable minter on the testnet helps the whole ecosystem. 
+When minting, you hash the block and its timestamp (1 hash/utxo/second), and compare to the difficulty per unit coinage.
+Difficulty throttled PoW rewards prevent the snowballing of energy consumption due to mining.
+Outputs have a minimum size called the ‘dust limit’ which prevents spam. It is a widely used Peercoin invention.
+Rather than relying on a fee market and a blocksize limit, Peercoin uses a fixed fee rate to give value to data.
+You can provably burn Peercoin simply by including a higher fee than is required. Fees are burnt.
+Distributed consensus is all about strangers on the internet agreeing. It’s nothing short of a miracle.
+OP_RETURN is a specially marked output that allows for arbitrary data inclusion in a block, up to a limit, paying required fees.
+The economics of Peercoin are uniquely defined around the act of participation in the consensus process.
+Around 7000 out of 12000 coins are PoS, intellectual progeny of Peercoin. Even high cap coins like ETH wanna be us.
+If Peercoin consumed as much energy as Bitcoin, the price would have to be $400k/ppc with a marketcap of $11 trillion.
+The PoW component of Peercoin is made to taper off as the efficiency of computer hardware gets better.
