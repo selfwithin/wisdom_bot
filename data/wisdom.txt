@@ -20,7 +20,7 @@ With a ~1GB blockchain, Peercoin’s efficiency allows for a true peer-to-peer p
 Peercoin has a fee of 0.01 PPC/KB, no calculators required.
 Backbone settlement layers with long-term distributed consensus are proven over time.
 Time: it’s not just for clocks anymore. #Peercoin
-Ever hear the phrase ‘time is money’? Ok, now multiple them together. #coinage
+Ever hear the phrase ‘time is money’? Ok, now multiply them together. #coinage
 Distributed consensus allows for collections of individuals to find common ground, and to walk away.
 Protocol changes occur when innovation is implemented. Design starts with discussion of ideas and moves to an RFC.
 Talk is cheap, so come do a lot of it with us. Adaptability to new ideas is key.
