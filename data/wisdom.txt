@@ -1,55 +1,57 @@
-Sunny King and Scott Nadal invented Peercoin in August 2012 as the first Proof of Stake secured cryptocurrency.
-Peercoin’s blockchain security rests entirely on PoS.  PoW mining is used only to generate a fair initial coin distribution.
-ICOs create central points of failure for Proof of Stake systems. Peercoin has been fairly distributing coins since 2012.
-Peercoin is first to implement a dust limit, fee burning, fixed fees, a coherent inflation rate, oh yah and Proof of Stake.
-While Peercoin’s inflation due to PoS is only ~1%, a continuous minter currently gets around 5%/year rewards.
-The mint reward rate is related to a) how many coins are participating, and b) the mint difficulty. Time is the difference.
-Time is the expended commodity in PoS networks. Afterall, isn’t time the only thing we truly have to offer?
-Peercoin strives to survive as an immutable record. The moon is just a side trip.
-Opportunity cost is real. Peercoin atrophies its attackers with its mere existence.
-PoS inflation can be seen as a nominal ‘in name only’ interest because anyone can participate.
-The Peercoin DAO is more than the blockchain, it is all of us at the moment of our most caring.
-The PoS reward is in two parts, a 3%/year coinage part, and ~1.25 PPC/block static part.
-Peercoin inflation is around half PoS and half PoW. Distribution is hybrid, while security is 100% PoS.
-PoW block rewards go down when PoW difficulty goes up in Peercoin. 16x difficulty cuts the reward in half.
-Self-governance is a core attribute of PoS. Combined with fair distribution, Peercoin sets the bar for justice in economics.
-Deflationary cryptocurrencies are doomed to fail once their block rewards run out. Sustainability is multi-faceted.
-While the Foundation allows for accountability and a way to centralize efforts, Peercoin thrives off volunteers.
-PeerAssets is a tokenization protocol designed to be lightweight to fit on an efficient chain like Peercoin.
-With a ~1GB blockchain, Peercoin’s efficiency allows for a true peer-to-peer protocol. Full nodes for all.
-Peercoin has a fee of 0.01 PPC/KB, no calculators required.
-Backbone settlement layers with long-term distributed consensus are proven over time.
+Sunny King and Scott Nadal invented Peercoin in August 2012 as the first Proof of Stake secured cryptocurrency. #Genesis
+Peercoin’s blockchain security rests entirely on PoS.  PoW mining is used only to generate a fair initial coin distribution. #fair #security
+ICOs create central points of failure for Proof of Stake systems. Peercoin has been fairly distributing coins since 2012. #fair #OG
+Peercoin was first to implement a dust limit, fee burning, fixed fees, a coherent inflation rate, oh yah and Proof of Stake. #OG #pioneer
+While Peercoin’s inflation due to PoS is only ~1%, a continuous minter currently gets around 5%/year rewards. #sustainability
+The mint reward rate is related to a) how many coins are participating, and b) the mint difficulty. Time is the difference. #participation
+Time is the expended commodity in PoS networks. Afterall, isn’t time the only thing we truly have to offer? #deepthoughts
+Peercoin strives to survive as an immutable record. The moon is just a side trip. #immutability
+Opportunity cost is real. Peercoin atrophies its attackers with its mere existence. #survive
+PoS inflation can be seen as a nominal ‘in name only’ interest because anyone can participate. #accessible
+The Peercoin DAO is more than the blockchain, it is all of us at the moment of our most caring. #voluntary
+The PoS reward is in two parts, a 3%/year coinage part, and ~1.25 PPC/block static part. #minting
+Peercoin inflation is around half PoS and half PoW. Distribution is #hybrid, while security is 100% #PoS. 
+PoW block rewards go down when PoW difficulty goes up in Peercoin. 16x difficulty cuts the reward in half. #sustainable
+Self-governance is a core attribute of PoS. Combined with fair distribution, Peercoin sets the bar for #justice in economics.
+Deflationary cryptocurrencies are doomed to fail once their block rewards run out. #Sustainability is multi-faceted.
+While the Foundation allows for #accountability and a way to centralize efforts, Peercoin thrives off volunteers.
+PeerAssets is a #tokenization protocol designed to be lightweight to fit on an #efficient chain like Peercoin.
+With a ~1GB blockchain, Peercoin’s #efficiency allows for a true peer-to-peer protocol. Full nodes for all.
+Peercoin has a fee of 0.01 PPC/KB, no calculators required. #simple
+Backbone settlement layers with long-term distributed #consensus are proven over #time.
 Time: it’s not just for clocks anymore. #Peercoin
 Ever hear the phrase ‘time is money’? Ok, now multiply them together. #coinage
-Distributed consensus allows for collections of individuals to find common ground, and to walk away.
-Protocol changes occur when innovation is implemented. Design starts with discussion of ideas and moves to an RFC.
-Talk is cheap, so come do a lot of it with us. Adaptability to new ideas is key.
-It’s not easy being green.
-Great care has been put into keeping decentralized projects decentralized. New coins on the block don’t get that.
-Fees are burned in Peercoin rather than recycled, keeping the blockchain tight and efficient.
-You will be outlasted by the sunrise and by Peercoin.
-Only three things in life are certain: death, taxes, and the next Peercoin block.
-Outputs start to have a chance to mint at 30 days old and reach maximum mint probability at 90 days.
-Each output to a transaction is a lottery ticket to mint. The timestamp of the formed block chooses the winners.
-The standard client will split outputs in two that mint earlier than 90 days.
-What is the ideal output size to maximize mint rewards? It depends on the PoS difficulty, but around 20-200 PPC is fine.
-Many Peercoin point upgrades are hard forks, allowing the protocol to truly improve and flaunting the strength of our consensus.
-Democratically self-governed, Peercoin does not fear those who have not put in the time.
-Peercoin is the Eye of Agamotto.
-Development on Peercoin has been two-fold: maintaining compatibility with Bitcoin code, and building our own unique mechanisms.
-Our full nodes are streamlined enough to fit on a Raspberry Pi, a small computer, or an Internet of Things device.
+Distributed consensus allows for collections of individuals to find common ground, and to walk away. #voluntary
+#Protocol changes occur when innovation is implemented. #Design starts with discussion of ideas and moves to an RFC.
+Talk is cheap, so come do a lot of it with us. #Adaptability to new ideas is key.
+It’s not easy being #green.
+Great care has been put into keeping #decentralized projects decentralized. New coins on the block don’t get that.
+Fees are #burned in Peercoin rather than recycled, keeping the blockchain tight and #efficient.
+You will be #outlasted by the sunrise and by Peercoin.
+Only three things in life are certain: death, taxes, and the next Peercoin block. #reliability
+Outputs start to have a chance to #mint at 30 days old and reach maximum mint #probability at 90 days.
+Each output to a transaction is a lottery ticket to #mint. The #timestamp of the formed block chooses the winners.
+The standard client will #split outputs in two that mint earlier than 90 days.
+What is the ideal output size to maximize mint rewards? It depends on the PoS #difficulty, but around 20-200 #PPC is fine.
+Many Peercoin point upgrades are #hardforks, allowing the protocol to truly improve and flaunting the strength of our #consensus.
+Democratically self-governed, Peercoin does not fear those who have not put in the time. #trust
+Peercoin is the Eye of Agamotto. #DrStrange
+#Development on Peercoin has been two-fold: maintaining #compatibility with Bitcoin code, and building our own #unique mechanisms.
+Our full nodes are #streamlined enough to fit on a Raspberry Pi, a small computer, or an Internet of Things device.
 Settings>Options>Wallet>’Enable coin control features’.  Thank me later.
-The ‘Export’ button in the ‘Transactions’ tab outputs a .csv of your activities. Peercoin Analytics aims help interpret it.
-The testnet is a mirror network with faster protocol parameters that we release updates on first to troubleshoot them.
-While testnet coins are not worth money, being a reliable minter on the testnet helps the whole ecosystem. 
-When minting, you hash the block and its timestamp (1 hash/utxo/second), and compare to the difficulty per unit coinage.
-Difficulty throttled PoW rewards prevent the snowballing of energy consumption due to mining.
-Outputs have a minimum size called the ‘dust limit’ which prevents spam. It is a widely used Peercoin invention.
-Rather than relying on a fee market and a blocksize limit, Peercoin uses a fixed fee rate to give value to data.
-You can provably burn Peercoin simply by including a higher fee than is required. Fees are burnt.
-Distributed consensus is all about strangers on the internet agreeing. It’s nothing short of a miracle.
-OP_RETURN is a specially marked output that allows for arbitrary data inclusion in a block, up to a limit, paying required fees.
-The economics of Peercoin are uniquely defined around the act of participation in the consensus process.
-Around 7000 out of 12000 coins are PoS, intellectual progeny of Peercoin. Even high cap coins like ETH wanna be us.
-If Peercoin consumed as much energy as Bitcoin, the price would have to be $400k/ppc with a marketcap of $11 trillion.
-The PoW component of Peercoin is made to taper off as the efficiency of computer hardware gets better.
+The ‘Export’ button in the ‘Transactions’ tab outputs a .csv of your activities. Peercoin #Analytics aims help interpret it.
+The testnet is a #mirror network with faster protocol parameters that we release updates on first to #troubleshoot them.
+While #testnet coins are not worth money, being a reliable minter on the testnet helps the whole #ecosystem. 
+When minting, you #hash the block and its timestamp (1 hash/utxo/second), and compare to the difficulty per unit #coinage.
+Difficulty throttled PoW rewards prevent the snowballing of #energy consumption due to mining.
+Outputs have a minimum size called the ‘dust limit’ which prevents #spam. It is a widely used Peercoin invention.
+Rather than relying on a #feemarket and a blocksize limit, Peercoin uses a fixed fee rate to give #value to data.
+You can provably #burn Peercoin simply by including a higher fee than is required. Fees are burnt.
+Distributed consensus is all about strangers on the internet #agreeing. It’s nothing short of a #miracle.
+OP_RETURN is a specially marked output that allows for #arbitrary data inclusion in a block, up to a limit, paying required fees.
+The economics of Peercoin are uniquely defined around the act of #participation in the consensus process.
+Around 7000 out of 12000 coins are PoS, intellectual #progeny of Peercoin. Even high cap coins like ETH wanna be us.
+If Peercoin consumed as much #energy as Bitcoin, the price would have to be $400k/ppc with a #marketcap of $11 trillion.
+The PoW component of Peercoin is made to taper off as the #efficiency of computer hardware gets better.
+Every transaction ever performed is stored redundantly as an #immutable record on every full node. #transparency
+Cryptocurrency is pseudo-anonymous. Many find that scary, but the battle of virtual #psuedoanonymity is #nuanced.
