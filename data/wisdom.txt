@@ -62,4 +62,10 @@ Get me some of that green green. #efficient #money
 Crypto is always greener on the other side of the proof. #proofofstake
 I feel like I should be distributing leaflets. #prosthelytizing #leaf
 Put that in your pipe and smoke it. #GreenCrypto
-Staking is privilege of those who hold the premine. But not with Peercoin! #proofofstake #staking
+In many coins, staking is privilege of those who hold the premine. But not with Peercoin! #proofofstake #staking
+A #block contains transactions including a coinbase and a #coinstake. Peercoin added the coinstake as a special transaction that overrides the proof of work coinbase and is validated by proof of stake.
+Peercoin Charts (peercoinexplorer.net/charts) is a very good resource for checking out the history of performance for key network metrics such as inflation or difficulty.
+Like #Hoggle from David Bowie's #Labyrinth, Peercoin denizens have seen many a crypto come and go and may seem cynical and grumpy, but can be very loyal and helpful.  And they like shiny things just as much as the next dwarf.
+Peercoin has an #algorithmic inflation defined with a ~2% annualized target in mind. Fluctuations are determined by network participation, rather than any centralized entity.
+The community surrounding Peercoin has evolved over time, but has always remained connected with its founding people and principles.
+Peercoin is the energy #efficient alternative to Bitcoin, and always has been.
