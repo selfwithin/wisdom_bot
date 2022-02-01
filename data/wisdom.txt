@@ -70,3 +70,4 @@ Peercoin has an #algorithmic inflation defined with a ~2% annualized target in m
 The community surrounding Peercoin has evolved over time, but has always remained connected with its founding people and principles.
 Peercoin is the energy #efficient alternative to Bitcoin, and always has been.
 Peercoin token allocation: Team: 0% Foundation: 0% Investors: 0% Advisors: 0% Ecosystem: 0% Marketing: 0%
+For better or for worse, Peercoin's PoS difficulty is a more sophisticated #organism than the gut reactions of the hash market.
