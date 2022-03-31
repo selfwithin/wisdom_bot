@@ -71,3 +71,4 @@ The community surrounding Peercoin has evolved over time, but has always remaine
 Peercoin is the energy #efficient alternative to Bitcoin, and always has been.
 Peercoin token allocation: Team: 0% Foundation: 0% Investors: 0% Advisors: 0% Ecosystem: 0% Marketing: 0%
 For better or for worse, Peercoin's PoS difficulty is a more sophisticated #organism than the gut reactions of the hash market.
+Peercoin is the only blockchain project except Bitcoin which is developed and maintained by a second generation team. Original team which has started the project is long gone and new core group of people has organically grew out of the community. Core group of people changes on yearly basis, with new people coming and old ones leaving. Peercoin will likely see a 3rd generation team in the near future.
